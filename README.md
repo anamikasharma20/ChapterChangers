@@ -8,7 +8,6 @@
 - **Simple Search & Filter**: Quickly find books by title, author, or genre.
 - **Borrow or Own**: Choose to borrow a book temporarily or purchase it for your permanent collection.
 - **Personalized Library**: Create an account to track your borrowed books, purchases, and reading history.
-- **Mobile-Friendly**: Access ChapterChangers on any device, any time.
 
 ## 🚀 Getting Started
 
@@ -25,4 +24,17 @@ If you'd like to set up **ChapterChangers** locally, here’s how:
 4.**Start the Server**
   npm start
 5.**Open in Your Browser**
+  Visit http://localhost:3000 to explore the local setup of ChapterChangers!
+  
+# 🛠️ How to Contribute
+ We welcome contributions to help make ChapterChangers even better! Here’s how to contribute:
+1. Fork the Repo: Click the "Fork" button to create your copy.
+2. Clone Your Forked Repo:
+   git clone https://github.com/your-username/ChapterChangers.git
+3. Create a New Branch for Your Feature or Fix:
+   git checkout -b your-feature
+4. Push Your Changes and open a pull request (PR) with a description of your changes.
+   
+# 📞 Get in Touch
+Have questions or feedback? Feel free to reach out at anamika.20233328@mnnit.ac.in. We’d love to hear from you!
    
