@@ -30,7 +30,7 @@ If you'd like to set up **ChapterChangers** locally, here’s how:
  We welcome contributions to help make ChapterChangers even better! Here’s how to contribute:
 1. Fork the Repo: Click the "Fork" button to create your copy.
 2. Clone Your Forked Repo:
-   git clone https://github.com/your-username/ChapterChangers.git
+   git clone https://github.com/anamikasharma20/ChapterChangers.git
 3. Create a New Branch for Your Feature or Fix:
    git checkout -b your-feature
 4. Push Your Changes and open a pull request (PR) with a description of your changes.
