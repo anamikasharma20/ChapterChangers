@@ -1,4 +1,4 @@
-# 📚 Welcome to ChapterChangers!
+# 📚 Welcome 
 
 **ChapterChangers** is your all-in-one digital library and bookstore, where you can browse, borrow, and buy books in just a few clicks. Whether you're a student, a book lover, or just love exploring new reads, ChapterChangers has something for you!
 
