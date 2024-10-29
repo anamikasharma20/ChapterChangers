@@ -15,15 +15,14 @@ If you'd like to set up **ChapterChangers** locally, here’s how:
 
 1. **Clone the Repository**  
    In your terminal, copy this:
-   ```bash
    git clone https://github.com/anamikasharma20/ChapterChangers.git
-2.**Navigate to the Project Directory**
+2. **Navigate to the Project Directory**
    cd ChapterChangers
-3.**Install Required Files**
+3. **Install Required Files**
    npm install
-4.**Start the Server**
+4. **Start the Server**
   npm start
-5.**Open in Your Browser**
+5. **Open in Your Browser**
   Visit http://localhost:3000 to explore the local setup of ChapterChangers!
   
 # 🛠️ How to Contribute
